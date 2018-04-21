@@ -10,4 +10,3 @@ A collection of select data science projects.
 **2. Exploratory Data Analysis: Salt Lake City Air Quality (Air Quality)**
 * Exploratory analysis of air quality metrics in Salt Lake City, UT between 2000-2017.
 
-Master's Thesis also included to serve as writing sample and additional example of data analysis and quantitative capabilities.
