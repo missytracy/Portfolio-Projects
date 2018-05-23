@@ -1,6 +1,6 @@
 # Selected Portfolio Projects
 
-A collection of select data science projects.    
+A collection of select Python-based data science projects.    
 
 **1. Solar Stock Predictions**
 * Time-series analysis and forecasting of stock prices for select companies working within the solar energy market sector.  Analysis performed using ARIMA models and Facebook's Prophet forecasting tool.  I also created an interactive Tableau dashboard to visualize the data.  Check it out here: https://public.tableau.com/profile/missy.tracy#!/vizhome/SolarInvestingDashboard/Dashboard1
