@@ -1,4 +1,4 @@
-# Selected Portfolio Projects
+# Portfolio Projects
 
 A collection of select Python-based data science projects.    
 
