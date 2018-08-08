@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-A collection of Python-based data science projects from my time in the Thinkful Data Science Program.    
+A collection of independent data science projects from my time in the Thinkful Data Science Program.    
 
 **1. Solar Stock Predictions**
 * Time-series analysis and stock price forecasting for companies working within the solar energy market sector.  Analysis performed using ARIMA models and Facebook's Prophet forecasting tool.  I also created an interactive Tableau dashboard to play with the data.  Check it out here: https://public.tableau.com/profile/missy.tracy#!/vizhome/SolarInvestingDashboard/Dashboard1
